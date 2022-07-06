@@ -55,3 +55,28 @@ h1{
     padding:10px 40px;
     border-radius: 10px;
 }
+#one{
+    text-align: center;
+    font-size: 30px;
+}
+#two{
+    text-align: center;
+    padding-bottom: 40px;
+}
+.search{
+    width:300px;
+    float: left;
+    margin-left: 45%;
+    border: 1px solid orangered;
+    padding: 30px;
+}
+btn:focus{
+    outline: none;
+}
+email:focus{
+    outline: none;
+}
+.btn{
+    width: 100px;
+    background-color: orange;
+}
